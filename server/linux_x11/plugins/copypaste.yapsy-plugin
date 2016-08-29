@@ -1,0 +1,8 @@
+[Core]
+Name = Copypaste plugin
+Module = copypaste
+
+[Documentation]
+Author = Tyler Benster
+Version = 0.1
+Description = Adds copy paste with dictionary lookup.
