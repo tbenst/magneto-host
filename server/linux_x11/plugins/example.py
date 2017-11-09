@@ -1,6 +1,6 @@
 from yapsy.IPlugin import IPlugin
 
-enabled = True
+enabled = False
 
 
 def greet_user(name='Incognito'):

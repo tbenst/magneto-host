@@ -1,0 +1,8 @@
+[Core]
+Name = Indicator plugin
+Module = indicator
+
+[Documentation]
+Author = Tyler Benster
+Version = 0.1
+Description = Adds indicator icon to sys tray.

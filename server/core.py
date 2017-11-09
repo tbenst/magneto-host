@@ -250,6 +250,7 @@ class AeneaPluginLoader(object):
         try:
             import yapsy
             import yapsy.PluginManager
+            logging.basicConfig()
         except ImportError:
             self.logger.warn(
                 'Cannot import yapsy; optional server plugin support won\'t '
